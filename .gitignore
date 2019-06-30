@@ -9,11 +9,10 @@ __pycache__/
 # project specific
 *.csv
 *.gz
+*.bz2
 
 #ipynb
 .ipynb_checkpoints/
 
+#env
 .venv/
-
-/data
-*bz2
